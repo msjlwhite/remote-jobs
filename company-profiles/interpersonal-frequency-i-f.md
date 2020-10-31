@@ -2,10 +2,29 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Interpersonal Frequency (I.F.) builds and supports award-winning Drupal websites for civic institutions. We provide data-driven development and design consulting, open-source cloud hosting solutions and deeply insightful custom analytics tools.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/interpersonal-frequency-i-f.md)
+11-50 employees
+
+## Region
+
+USA
+
+## Company technologies
+
+Drupal
+
+## Office locations
+
+McLean, VA
+Seattle, WA
+
+## How to apply
+
+https://www.linkedin.com/company/interpersonal-frequency-if/ -OR-
++1 212.390.1501
+contact@ifsight.com
+DC: P.O. Box 51 · McLean, VA 22101
+Seattle: 600 N. 36th St. Suite 318 · Seattle, WA 98103
