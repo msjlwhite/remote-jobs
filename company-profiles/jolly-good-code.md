@@ -1,11 +1,36 @@
 # Jolly Good Code
 
+
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+As modern craftsmen specializing in Agile practices and Ruby on Rails,
+we have the passion and confidence to train you to be a software engineer,
+and expertise and experience to help you build your dream startup.
 
-If you know something we don't, help us fill it in!  Here's how:
+At JollyGoodCode, are committed in training you to become a better developer with skills and character that will make a difference.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/jolly-good-code.md)
+## Company size
+
+2 employees
+
+## Remote status
+
+N/A
+
+## Region
+
+Asia
+
+## Company technologies
+
+Jolly Good Code uses 30 technology products and services including HTML5, Google Analytics, and Google Fonts, acording to G2 Stack.
+Jolly Good Code is actively using 19 technologies for its website, according to BuiltWith. These include Viewport Meta, IPhone / Mobile Compatible, and SPF.
+
+## Office locations
+
+Singapore
+
+## How to apply
+
+hello@jollygoodcode.com
+
